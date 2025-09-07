@@ -18,4 +18,6 @@
 
 ### 🌐 Əlaqə
 - [LinkedIn](#) • [Twitter](#) • [Portfolio](#)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miraq%C5%9Fin-a%C4%9Fah%C3%BCseynli-955966207/)
+
 
